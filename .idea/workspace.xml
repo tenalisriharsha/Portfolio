@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c085e97-f28a-4d0d-9451-63ca288cf5e3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/portfolio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portofolio_V5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Portofolio_V5/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portofolio_V5/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Portofolio_V5/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portofolio_V5/public/Photo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Portofolio_V5/public/Photo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portofolio_V5/public/SweetAlert.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portofolio_V5/public/firebase.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portofolio_V5/public/vite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portofolio_V5/src/Pages/About.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Portofolio_V5/src/Pages/About.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portofolio_V5/src/Pages/Contact.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Portofolio_V5/src/Pages/Contact.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portofolio_V5/src/Pages/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Portofolio_V5/src/Pages/Home.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portofolio_V5/src/Pages/Portofolio.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Portofolio_V5/src/Pages/Portofolio.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portofolio_V5/src/Pages/WelcomeScreen.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Portofolio_V5/src/Pages/WelcomeScreen.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portofolio_V5/src/components/CardProject.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Portofolio_V5/src/components/CardProject.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portofolio_V5/src/components/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Portofolio_V5/src/components/Navbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portofolio_V5/src/components/ProjectDetail.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Portofolio_V5/src/components/ProjectDetail.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portofolio_V5/src/components/SocialLinks.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Portofolio_V5/src/components/SocialLinks.jsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Portofolio_V5" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "tenalisriharsha"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/EkiZR/Portofolio_V5",
+    "accountId": "8918bb01-99f8-469a-8fdd-3c48351fdeb4"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="36JP31yF0irLO3BJ1dOp7a1HITM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/tenalisriharsha/PycharmProjects/portfolio/Portofolio_V5/public"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Portofolio_V5/public" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c085e97-f28a-4d0d-9451-63ca288cf5e3" name="Changes" comment="" />
+      <created>1764721498150</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764721498150</updated>
+    </task>
+    <servers />
+  </component>
+</project>
