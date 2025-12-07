@@ -5,18 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c085e97-f28a-4d0d-9451-63ca288cf5e3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/portfolio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portofolio_V5" beforeDir="false" afterPath="$PROJECT_DIR$/Portofolio_V5" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Portofolio_V5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Portofolio_V5/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Portofolio_V5/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Portofolio_V5/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Portofolio_V5/public/Photo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Portofolio_V5/public/Photo.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Portofolio_V5/public/SweetAlert.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Portofolio_V5/public/firebase.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Portofolio_V5/public/vite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portofolio_V5/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Portofolio_V5/src/App.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Portofolio_V5/src/Pages/About.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Portofolio_V5/src/Pages/About.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Portofolio_V5/src/Pages/Contact.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Portofolio_V5/src/Pages/Contact.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Portofolio_V5/src/Pages/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Portofolio_V5/src/Pages/Home.jsx" afterDir="false" />
