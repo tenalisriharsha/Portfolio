@@ -32,7 +32,7 @@ const MainTitle = memo(() => (
       <span className="relative inline-block mt-2">
         <span className="absolute -inset-2 bg-gradient-to-r from-[#6366f1] to-[#a855f7] blur-2xl opacity-20"></span>
         <span className="relative bg-gradient-to-r from-[#6366f1] to-[#a855f7] bg-clip-text text-transparent">
-           Developer
+          Engineer
         </span>
       </span>
     </h1>
@@ -77,8 +77,21 @@ const SocialLink = memo(({ icon: Icon, link }) => (
 const TYPING_SPEED = 100;
 const ERASING_SPEED = 50;
 const PAUSE_DURATION = 2000;
-const WORDS = ["Python & React Developer", "Building AI-powered apps"];
-const TECH_STACK = ["React", "Python", "Django", "PostgreSQL"];
+const WORDS = [
+  "Full-Stack Software Engineer",
+  "AI & Cloud-Native Builder",
+  "React · Python · Flutter · K8s",
+];
+const TECH_STACK = [
+  "React",
+  "Next.js",
+  "Python",
+  "Django",
+  "FastAPI",
+  "Flutter",
+  "PostgreSQL",
+  "Kubernetes",
+];
 const SOCIAL_LINKS = [
   { icon: Github, link: "https://github.com/tenalisriharsha" },
   { icon: Linkedin, link: "https://www.linkedin.com/in/tenalisriharsha/" },
@@ -184,7 +197,7 @@ const Home = () => {
                 <p className="text-base md:text-lg text-gray-400 max-w-xl leading-relaxed font-light"
                   data-aos="fade-up"
                   data-aos-delay="1000">
-                  I build clean, user-friendly web applications and automation tools using React, Python, and modern APIs.
+                  I build clean, user-friendly web and mobile applications, AI-powered tools, and cloud-native systems using React, Python, Flutter, and modern APIs.
                 </p>
 
                 {/* Tech Stack */}

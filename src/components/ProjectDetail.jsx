@@ -1,6 +1,6 @@
 import React, { useEffect, useMemo, useState } from "react";
 import { useParams, useNavigate } from "react-router-dom";
-import { ArrowLeft, Github, Code2, Star, ChevronRight, Layers, Package, Cpu, Code, Globe, Layout } from "lucide-react";
+import { ArrowLeft, Github, ExternalLink, Code2, Star, ChevronRight, Layers, Package, Cpu, Code, Globe, Layout } from "lucide-react";
 import Swal from "sweetalert2";
 
 const TECH_ICONS = {
@@ -141,6 +141,7 @@ const ProjectDetails = () => {
 
   // In your DB, Link is your GitHub repo URL (based on your screenshot)
   const githubUrl = project?.Link || project?.Github || "";
+  const liveDemoUrl = project?.LiveDemo || "";
 
   if (!project) {
     return (
@@ -202,7 +203,6 @@ const ProjectDetails = () => {
 
               <ProjectStats techStackCount={techList.length} featuresCount={featureList.length} />
 
-              {/* ONLY GitHub button (Live Demo removed) */}
               <div className="flex flex-wrap gap-3 md:gap-4">
                 {githubUrl ? (
                   <a
@@ -218,6 +218,19 @@ const ProjectDetails = () => {
                   </a>
                 ) : (
                   <span className="text-gray-500 text-sm">GitHub link not available</span>
+                )}
+
+                {liveDemoUrl && (
+                  <a
+                    href={liveDemoUrl}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="group relative inline-flex items-center space-x-1.5 md:space-x-2 px-4 md:px-8 py-2.5 md:py-4 bg-gradient-to-r from-blue-600/10 to-cyan-600/10 hover:from-blue-600/20 hover:to-cyan-600/20 text-blue-300 rounded-xl transition-all duration-300 border border-blue-500/20 hover:border-blue-500/40 backdrop-blur-xl overflow-hidden text-sm md:text-base"
+                  >
+                    <div className="absolute inset-0 translate-y-[100%] bg-gradient-to-r from-blue-600/10 to-cyan-600/10 transition-transform duration-300 group-hover:translate-y-[0%]" />
+                    <ExternalLink className="relative w-4 h-4 md:w-5 md:h-5 group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform" />
+                    <span className="relative font-medium">Live Demo</span>
+                  </a>
                 )}
               </div>
 

@@ -21,7 +21,7 @@ const Header = memo(() => (
       data-aos-duration="800"
     >
       <Sparkles className="w-5 h-5 text-purple-400" />
-      Building clean UIs and reliable full‑stack solutions
+      Building AI-powered apps, cloud-native systems, and reliable full-stack solutions
       <Sparkles className="w-5 h-5 text-purple-400" />
     </p>
   </div>
@@ -214,7 +214,7 @@ const AboutPage = () => {
               data-aos="fade-right"
               data-aos-duration="1500"
             >
-             An enthusiastic and adaptable Computer Science professional with a strong foundation in full‑stack web development, AI/ML, and cloud fundamentals. I enjoy building cloud‑native applications and AI‑driven tools using React, Node.js, and Python, with a focus on clean UI, reliable REST APIs, and practical problem‑solving.
+             An enthusiastic and adaptable Software Engineer with hands-on experience across full-stack web development, mobile apps, AI/ML, and cloud-native systems. I've built and deployed production-grade applications using React, Next.js, Django, FastAPI, and Flutter, alongside AI integrations via Groq and Moonshot/Kimi. I enjoy turning complex problems into clean UIs, reliable REST APIs, and practical tools that make an impact.
             </p>
 
                {/* Quote Section */}
@@ -235,7 +235,7 @@ const AboutPage = () => {
         </div>
 
         <blockquote className="text-gray-300 text-center lg:text-left italic font-medium text-sm relative z-10 pl-6">
-          "Building reliable full‑stack apps and AI‑driven tools, with a focus on real‑world impact."
+          "Building reliable full-stack apps, AI-driven tools, and cloud-native systems with a focus on real-world impact."
         </blockquote>
       </div>
 
