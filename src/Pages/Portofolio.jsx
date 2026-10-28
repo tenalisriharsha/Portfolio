@@ -100,34 +100,68 @@ function a11yProps(index) {
 }
 
 const techStacks = [
+  // Languages
   { icon: "python.svg", language: "Python" },
+  { icon: "java.svg", language: "Java" },
+  { icon: "go.svg", language: "Go" },
   { icon: "javascript.svg", language: "JavaScript" },
-  { icon: "reactjs.svg", language: "React" },
-  { icon: "nodejs.svg", language: "Node.js" },
   { icon: "typescript.svg", language: "TypeScript" },
   { icon: "dart.svg", language: "Dart" },
-  { icon: "flutter.svg", language: "Flutter" },
+  { icon: "bash.svg", language: "Bash" },
+  { icon: "powershell.svg", language: "PowerShell" },
+  { icon: "ruby.svg", language: "Ruby" },
+  // Frontend and mobile
+  { icon: "reactjs.svg", language: "React" },
   { icon: "nextjs.svg", language: "Next.js" },
+  { icon: "angular.svg", language: "Angular" },
   { icon: "vite.svg", language: "Vite" },
   { icon: "html.svg", language: "HTML" },
   { icon: "css.svg", language: "CSS" },
   { icon: "tailwind.svg", language: "Tailwind CSS" },
+  { icon: "flutter.svg", language: "Flutter" },
+  // Backend and APIs
+  { icon: "nodejs.svg", language: "Node.js" },
+  { icon: "express.svg", language: "Express" },
   { icon: "flask.svg", language: "Flask" },
   { icon: "fastapi.svg", language: "FastAPI" },
   { icon: "django.svg", language: "Django" },
+  { icon: "spring.svg", language: "Spring Boot" },
+  { icon: "swagger.svg", language: "Swagger" },
+  // Data and analytics
   { icon: "postgresql.svg", language: "PostgreSQL" },
   { icon: "sqlite.svg", language: "SQLite" },
   { icon: "redis.svg", language: "Redis" },
+  { icon: "dynamodb.svg", language: "DynamoDB" },
   { icon: "firebase.svg", language: "Firebase" },
+  { icon: "supabase.svg", language: "Supabase" },
+  { icon: "streamlit.svg", language: "Streamlit" },
+  { icon: "plotly.svg", language: "Plotly" },
+  // Cloud, platform and DevOps
   { icon: "docker.svg", language: "Docker" },
   { icon: "kubernetes.svg", language: "Kubernetes" },
+  { icon: "helm.svg", language: "Helm" },
+  { icon: "argocd.svg", language: "ArgoCD" },
+  { icon: "terraform.svg", language: "Terraform" },
+  { icon: "ansible.svg", language: "Ansible" },
+  { icon: "aws.svg", language: "AWS" },
+  { icon: "azure.svg", language: "Azure" },
+  { icon: "proxmox.svg", language: "Proxmox" },
+  { icon: "git.svg", language: "Git" },
   { icon: "github.svg", language: "GitHub Actions" },
+  { icon: "maven.svg", language: "Maven" },
+  { icon: "vercel.svg", language: "Vercel" },
+  // Observability
   { icon: "grafana.svg", language: "Grafana" },
   { icon: "prometheus.svg", language: "Prometheus" },
   { icon: "influxdb.svg", language: "InfluxDB" },
+  // Testing and tools
+  { icon: "pytest.svg", language: "Pytest" },
   { icon: "postman.svg", language: "Postman" },
   { icon: "linux.svg", language: "Linux" },
+  { icon: "slack.svg", language: "Slack" },
+  // AI
   { icon: "groq.svg", language: "Groq AI" },
+  { icon: "ollama.svg", language: "Ollama" },
 ];
 
 export default function FullWidthTabs() {
